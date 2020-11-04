@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ranking"
+        android:title="Updates" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/sethoscope"
+        android:title="Self-Assessment" />
+    <item
+        android:id="@+id/navigation_Video"
+        android:icon="@drawable/video"
+        android:title="Video" />
+    <item
+        android:id="@+id/navigation_faq"
+        android:icon="@drawable/faqq"
+        android:title="FAQ" />
+
+</menu>
